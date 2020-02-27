@@ -15,5 +15,12 @@
 		"com.pirho.utilities": "2.1.0",
 		"com.pirho.variables": "0.0.1",
 		"com.pirho.expressions": "0.0.1"
-	}
+	},
+	"samples": [
+		{
+			"displayName": "PiRhoBindings Samples",
+			"description": "Sample scene and scripts to show how PiRhoBindings can be used",
+			"path": "Samples~/PiRhoBindingsSamples"
+		}
+	]
 }
